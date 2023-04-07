@@ -1,0 +1,25 @@
+
+table, td{
+    border: 1px solid;
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+}
+
+.tac{
+    border: 1px solid coral;
+    height: 10vh;
+    width: 20vh;
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 80px;
+    float: inline-end;
+
+}
+
+#turn{
+    position: fixed;
+    left: 46%;
+    top: 45%;
+    color: red;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+        <link rel="stylesheet" href="CSS/indexCSS.css">
+    </head>
+    <body>
+        <h1>Hi, <%=name%></h1>
+        
+       
+        
+       <table>
+        <tr>
+            <td><button class="tac" id="bt">[ ]</button></td>
+            <td><button class="tac" id="bt1">[ ]</button></td>
+            <td><button class="tac" id="bt2">[ ]</button></td>
+        </tr>
+        <tr>
+            <td><button class="tac" id="bt3">[ ]</button></td>
+            <td><button class="tac" id="bt4">[ ]</button></td>
+            <td><button class="tac" id="bt5">[ ]</button></td>
+        </tr>
+        <tr>
+            <td><button class="tac" id="bt6">[ ]</button></td>
+            <td><button class="tac" id="bt7">[ ]</button></td>
+            <td><button class="tac" id="bt8">[ ]</button></td>
+        </tr>
+       </table>
+       <button id="reset">Reset</button>
+        <label id="turn">O's Turn</label>
+        <form action="/logout?_method=DELETE" method="POST">
+            <button type="submit">Log Out</button>
+        </form>
+        <script src="JS/myJS.js" async defer></script>
+    </body>
+</html>

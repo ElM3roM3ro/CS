@@ -1,0 +1,38 @@
+#type{
+    margin: 0px;
+    padding: 10px;
+    background-color:  silver;
+    color: azure;
+}
+
+#message{
+    margin: 0px;
+    padding: 10px;
+    background-color:  silver;
+    color: azure;
+}
+
+
+img{
+    width: 50%;
+    padding: 20px;
+    height: 200px
+    
+}
+
+p{
+    font-family: fantasy;
+}
+button{
+    width: 200px;
+    height: 50px;
+}
+
+#plyagain{
+    width: 200px;
+    height: 30px;
+    position: fixed;
+    bottom: 4px;
+    right: 10px;
+}
+
