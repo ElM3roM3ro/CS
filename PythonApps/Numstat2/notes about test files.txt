@@ -1,0 +1,5 @@
+Notes about the provided data files:
+numbers.txt - contains the original test list of numbers from the Number Stats assignment.  This file contains an even count of numbers.
+numbers2.txt - has one number removed from numbers.txt to make the list contain an odd count of numbers.
+numbers3.txt - has one number in it to test this "edge" case to make sure the program works when only one numbers is provided.
+numbers4.txt - contains no numbers to test this "edge" case to make sure it doesn't crash the program and is reported to user.
