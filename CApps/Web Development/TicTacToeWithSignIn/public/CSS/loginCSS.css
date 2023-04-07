@@ -1,0 +1,38 @@
+
+.email{
+    position: fixed;
+    top: 48%;
+    left: 43%;
+}
+
+.password{
+    position: fixed;
+    top: 50%;
+    left: 43%
+    
+}
+
+#email{
+    position: fixed;
+    top: 48%;
+    left: 49%;
+}
+
+#password{
+    position: fixed;
+    top: 50%;
+    left: 49%;
+}
+
+button{
+    position: fixed;
+    top: 55%;
+    left: 58%;
+}
+
+a{
+    position: fixed;
+    top: 55%;
+    left: 49%;
+    
+}
