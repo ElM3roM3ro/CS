@@ -1,0 +1,48 @@
+#include "lab2.h"
+
+int * createIntArrayFromFile(FILE *file, int *size)
+{	
+	if(file != NULL)
+	{
+		int length = 0;
+		fscanf(file, "%d", &length);
+		
+		*size = length;
+		int * array;
+		array = malloc(size*sizeof(int) + sizeof(int));
+		
+		if(array != NULL)
+		{
+			int count = 1;
+			while(!feof(file)
+			{
+				if(0!=scanf(file, "%d, &array[count])
+				{
+					count++;
+				}
+			}	
+		}
+		else
+		{
+			printf("ERROR: Allocation of memory failed\n");
+			//&array = NULL;
+		}
+	}
+	else
+	{
+		printf("ERROR:File pointer provided is not valid\n");
+		//&array = NULL;
+	}
+	
+	return array;
+}
+
+//int lastAddressOf(int *array, int size, int **result, int element)
+
+
+void freeArray(int *array)
+{	
+	free(*(array--));
+	*a = NULL;
+}
+

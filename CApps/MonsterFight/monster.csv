@@ -1,0 +1,26 @@
+﻿AC,HP,TH Bonus,Attack 1 damage,Attack 2 Damage,Name
+21,90,12,4d6+8,4d6+8,Ahote
+15,137,6,4d6+7,6d6,AbominableYeti
+15,90,8,2d8+5,3d8+2,AirElemental
+13,51,6,2d10+4,1d8+4,Allosaurus
+15,68,7,4d6+4,N/A,Ankylosaurus
+19,195,11,2d10+1d8+6,2d6+6,BlackDragon-Adult
+22,367,15,2d10+2d8+8,2d6+8,BlackDragon-Ancient
+17,33,4,1d10+1d4+2,5d8,BlackDragon-Wyrmling
+18,127,7,2d10+1d8+4,2d6+4,BlackDragon-Young
+11,34,6,1d8+4,2d6+4,BrownBear
+16,27,4,2d8+2,2d6+2,Bugbear
+17,65,5,2d8+3,2d6+3,BugbearChief
+17,94,7,4d12+4,N/A,Bulette
+14,200,12,3d8+8,4d10+8,CloudGiant
+17,126,8,2d8+5,N/A,EarthElemental
+12,76,8,3d8+5,3d10+5,Elephant
+15,138,9,3d12+6,4d10+6,FrostGiant
+16,112,7,2d8+4,2d4+4,Gladiator
+11,59,6,2d8+4,2d6+4,Ogre
+8,85,6,2d8+6,N/A,OgreZombie
+13,15,5,1d12+3,1d6+3,Orc
+19,256,14,2d10+2d6+8,2d6+8,RedDragon-Adult
+22,546,17,2d10+4d6+10,2d6+10,RedDragon-Ancient
+13,136,10,4d12+7,3d8+7,TyrannosaurusRex
+8,22,3,1d6+1,N/A,Zombie
